@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/triverse-project/static/css/main.b2eef37c.css",
+    "main.js": "/triverse-project/static/js/main.c65080c0.js",
+    "static/media/new-1.png": "/triverse-project/static/media/new-1.f94ae20cf143f0b9cc84.png",
+    "static/media/2-image.png": "/triverse-project/static/media/2-image.2f69bb6573a6b4f3cd38.png",
+    "index.html": "/triverse-project/index.html",
+    "main.b2eef37c.css.map": "/triverse-project/static/css/main.b2eef37c.css.map",
+    "main.c65080c0.js.map": "/triverse-project/static/js/main.c65080c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2eef37c.css",
+    "static/js/main.c65080c0.js"
+  ]
+}
